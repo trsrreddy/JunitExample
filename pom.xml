@@ -19,6 +19,7 @@
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
 </dependency>
+</dependencies>
 <distributionManagement>
     <repository>
         <id>central</id>
@@ -26,7 +27,6 @@
         <url>http://localhost:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
-  </dependencies>
   <build>
     <finalName>JunitExample</finalName>
   </build>
